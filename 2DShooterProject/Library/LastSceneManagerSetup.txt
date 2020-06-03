@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Rsc_AFK/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
