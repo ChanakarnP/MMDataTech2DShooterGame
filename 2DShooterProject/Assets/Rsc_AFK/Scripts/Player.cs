@@ -10,7 +10,7 @@ public class Player : MonoBehaviour
     public int StartHealth = 10;
     public Text CurrentHealthLabel;
     private int CurrentHealth;
-    private int LimitHealth = 100;
+    private int LimitHealth = 30;
 
     // Start is called before the first frame update
     void Start()

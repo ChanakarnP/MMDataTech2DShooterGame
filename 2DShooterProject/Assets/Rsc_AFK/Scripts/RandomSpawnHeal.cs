@@ -36,7 +36,7 @@ public class RandomSpawnHeal : MonoBehaviour
         // Spawn Heal5 every 20 seconds, starting in 20
         InvokeRepeating("Spawn5", 18, 20);
 
-        for(int i = 0; i < 50; i++)
+        for(int i = 0; i < 25; i++)
         {
             Invoke("SpawnArea", 1);
         }

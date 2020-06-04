@@ -96,7 +96,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 448}
   m_MaxSize: {x: 22012, y: 10024}
   vertical: 0
-  controlID: 94
+  controlID: 143
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 448}
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
-  controlID: 32
+  controlID: 124
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -302,9 +302,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: d6280000
       m_LastClickedID: 0
-      m_ExpandedIDs: 1e16ffff642effff5269ffff6e75ffff92cbffff96cbffff4cccffff26d1ffff68e6ffffb0e6ffff0eeaffff46f0ffffa8f0ffffc2f1ffff9cf3ffffecf4ffff00f9ffffccfbffff002a0000042a0000682d0000522e0000aa2e0000ae2e0000342f00006e2f000052300000aa300000ae30000066320000a03200005a430000d27a0000e67a00008a7e0000e27e0000e87e0000087f0000708f0000a08f0000c0960000e6960000
+      m_ExpandedIDs: 46faffffdefbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -401,20 +401,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Rsc_AFK/Materials/Images
+    - Assets/Rsc_AFK/Scenes
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Rsc_AFK/Materials/Images
+  - Assets/Rsc_AFK/Scenes
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: D:\0--On--Desktop--0\Unity Workspace\MMDTech2020_ICTPlayground2D-master\2DShooterProject
+  m_LastProjectPath: D:\0--On--Desktop--0\UnityWorkspace\MMDTech2020_ICTPlayground2D-master\2DShooterProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 42270000
-    m_LastClickedID: 10050
-    m_ExpandedIDs: 000000004226000066260000b6260000ea26000042270000c4270000de27000000ca9a3b
+    m_SelectedIDs: ba260000
+    m_LastClickedID: 9914
+    m_ExpandedIDs: 00000000762600009a260000ea2600001e27000076270000f82700001228000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -442,7 +442,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004226000066260000b6260000ea26000042270000c4270000de270000
+    m_ExpandedIDs: 00000000762600009a260000ea2600001e27000076270000f827000012280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -473,18 +473,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: 00000000a2270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: SampleScene
-      m_OriginalName: SampleScene
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 10146
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 8}
     m_CreateAssetUtility:
