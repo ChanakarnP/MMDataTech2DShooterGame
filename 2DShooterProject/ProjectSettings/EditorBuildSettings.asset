@@ -9,12 +9,12 @@ EditorBuildSettings:
     path: Assets/Rsc_AFK/Scenes/MenuScene.unity
     guid: ae3562cc8c7204b4e9585160ece85d92
   - enabled: 1
+    path: Assets/Rsc_AFK/Scenes/BaseScene.unity
+    guid: be2aab71532674f488dbe4de3eed2cf1
+  - enabled: 1
     path: Assets/Rsc_AFK/Scenes/SampleScene.unity
     guid: c2d4f4171b6aaf44d9987a2bd97b4dd5
   - enabled: 1
     path: Assets/Rsc_AFK/Scenes/GameOver.unity
     guid: 77b452f739e8e434f9127871076e8fc1
-  - enabled: 1
-    path: Assets/Rsc_AFK/Scenes/BaseScene.unity
-    guid: be2aab71532674f488dbe4de3eed2cf1
   m_configObjects: {}

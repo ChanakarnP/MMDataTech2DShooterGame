@@ -5,7 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class LoadScene : MonoBehaviour
 {
-    // Start is called before the first frame update
+
+    public void LoadTutorialScene()
+    {
+        SceneManager.LoadScene("BaseScene");
+    }
+
     public void LoadPlayScene()
     {
         SceneManager.LoadScene("SampleScene");

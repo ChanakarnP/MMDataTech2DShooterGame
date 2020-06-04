@@ -96,7 +96,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 448}
   m_MaxSize: {x: 22012, y: 10024}
   vertical: 0
-  controlID: 143
+  controlID: 136
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 448}
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
-  controlID: 124
+  controlID: 100
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -302,9 +302,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d6280000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 46faffffdefbffff
+      m_ExpandedIDs: e4adfffffcadffff32afffffeaafffff12b0ffff1ab0ffff32bcffffd6bdffffe2bdffffe4bdfffffabeffffa0bfffffaabfffffcabfffffa2d6ffff96f5ffff80f8ffff90f8ffff9af8ffffbaf8ffff78f9ffff36fafffff4faffff60fbffffdefbffffc62b0000e44400001445000032450000e6530000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -401,19 +401,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Rsc_AFK/Scenes
+    - Assets/Rsc_AFK/Scripts
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Rsc_AFK/Scenes
+  - Assets/Rsc_AFK/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\0--On--Desktop--0\UnityWorkspace\MMDTech2020_ICTPlayground2D-master\2DShooterProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ba260000
-    m_LastClickedID: 9914
+    m_SelectedIDs: ea260000
+    m_LastClickedID: 9962
     m_ExpandedIDs: 00000000762600009a260000ea2600001e27000076270000f82700001228000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -473,18 +473,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: 00000000a2270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: MenuScene
+      m_OriginalName: MenuScene
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 10454
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 8}
     m_CreateAssetUtility:
